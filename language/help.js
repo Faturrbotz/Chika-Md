@@ -416,17 +416,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setexif
   *≻* ${prefix}setmenu
   *≻* ${prefix}setallmenu
-  
-  *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
   `
 }
 
@@ -945,22 +934,6 @@ exports.ownermenu = (prefix) => {
   *≻* ${prefix}setppbot
   *≻* ${prefix}setexif
   *≻* ${prefix}setmenu 
-  *≻* ${prefix}setallmenu 
+  *≻* ${prefix}setallmenu
   `
-}
-
-//tqto gsh di hps y :) kalau mai tmbhin aja nama kalian!
-exports.thanksto = () => {
-	return`
-  *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
-`
 }
